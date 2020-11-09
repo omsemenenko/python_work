@@ -1,0 +1,3 @@
+In Python you can write tests.
+In Python you can write apps.
+In Python you can write web apps.
